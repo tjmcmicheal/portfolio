@@ -1,0 +1,422 @@
+#logo {
+	height: 100px;
+	width: 140px;
+}
+
+#logo img {
+margin-left: 0px;	
+}
+
+
+header {
+margin-top: 40px;
+margin-bottom: 25px;
+font-family: 'Futura LT Book', sans-serif;
+font-size: 10pt;
+font-weight: normal;
+letter-spacing: 2px;
+color: #939598;
+font-weight: normal;
+line-height: 1.4em;
+}
+
+
+
+
+
+
+#OurNames {
+line-height: 20px;
+font-weight: normal;
+
+}
+
+
+header h1 {
+	margin-top: 5px;
+font-size: 1.005em;
+}
+
+
+
+
+
+.hideability {
+display: none;
+}
+
+.showability {
+	display: inline;
+}
+
+
+
+
+
+.imgandh6 { 
+   position: relative; 
+}
+
+
+/*HOVER fonts*/
+h6 {
+	padding-top: 20px;
+	margin-top: -20px;
+	font-size: 12pt;
+	font-family: 'futura_ltbold', 'Futura', 'Futura-Bold', 'Futura Bold', 'Century Gothic', 'CenturyGothic', 'Helvetica', 'Arial', sans-serif;
+	font-weight: bold;
+	letter-spacing: 4pt;
+   	position: absolute; 
+   	visibility: hidden;
+   	line-height:100%;
+}
+
+/*CAPTION fonts*/
+h2 {
+font-family: 'futura_ltbook', 'Futura', 'Futura-Book', 'Futura Book', 'Century Gothic', 'CenturyGothic', 'Helvetica', 'Arial', sans-serif;
+font-size: 10pt;
+font-weight: light;
+letter-spacing: 2px;
+color: #939598;
+font-weight: normal;
+line-height: 1.4em;
+margin-left: -20px;	
+}
+
+
+
+
+
+
+
+
+
+
+.showing {
+	visibility: visible;
+}
+
+
+.showing2 {
+	visibility: visible;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fadeable {
+	opacity: .125;
+}
+
+.fadeable2 {
+	opacity: .125;
+}
+
+
+
+
+
+
+
+
+.contents .row {
+	margin-bottom: 20px;
+}
+
+
+
+
+img {
+	-moz-transition: all .25s;
+	-webkit-transition: all .25s;
+	transition: all .25s;
+}
+
+
+
+
+/*.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12 {
+	-moz-transition: all 1s;
+	-webkit-transition: all 1s;
+	transition: all 1s;	
+}
+*/
+
+
+#emptydiv {
+	margin-bottom: 232px;
+}
+
+
+
+
+
+
+.largepicture2 {
+box-shadow: 1px 1px 20px #efeff0;
+}
+
+.largepicture {
+box-shadow: 1px 1px 20px #efeff0;
+}
+
+
+
+a, a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+
+.menuemptydiv {
+	opacity: .25;
+	background: #FFF;
+	height: 1px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+.menucontent h1 {
+	margin: 1em;
+	font-size: 4em;
+}
+
+.menucontent h2 {
+text-align: left;
+margin-bottom: .5em;
+}
+
+.menucontent a, .menucontent a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.menucontent .menuitem {
+margin-top: 2em;
+}
+
+
+
+.fixtopmargin .largepicture, .fixtopmargin .largepicture2 {
+	margin-top: 20px;	
+}
+
+
+#zodiach2 {
+margin-top: 30px;	
+}
+
+
+
+
+
+
+.imgandh6 h6 {
+	   top: 39.5%; 
+}
+
+#thesecondpart .imgandh6:nth-child(2) h6 {
+	   top: 30%; 
+}
+
+
+/*Breast cancer*/
+.span2:nth-child(1) h6 {
+left: 21px;	
+}
+
+.span2:nth-child(2) h6 {
+left: -4px;	
+}
+
+.span2:nth-child(3) h6 {
+left: 32px;	
+}
+.span2:nth-child(4) h6 {
+left: 14px;	
+}
+.span2:nth-child(5) h6 {
+left: 36px;	
+}
+
+.span2:nth-child(6) h6 {
+left: 35px;	
+}
+
+
+#thesecondpart .span2:nth-child(1) h6 {
+left: 21px;	
+}
+#thesecondpart .span2:nth-child(2) h6 {
+left: 21px;	
+}
+#thesecondpart .span2:nth-child(3) h6 {
+left: 15px;	
+}
+#thesecondpart .span2:nth-child(4) h6 {
+left: 8px;	
+}
+#thesecondpart .span2:nth-child(5) h6 {
+left: 22px;	
+}
+#thesecondpart .span2:nth-child(6) h6 {
+left: 22px;	
+}
+
+
+
+
+
+
+
+
+
+
+.bookline2 {
+margin-top: 20px;
+margin-bottom: 20px;	
+}
+
+
+
+.span1 img:hover, .span2 img:hover, .span3 img:hover, .span4 img:hover, .span5 img:hover, .span6 img:hover, .span7 img:hover, .span8 img:hover, .span9 img:hover, .span10 img:hover, .span11 img:hover, .span12 img:hover {
+cursor: pointer;	
+}
+
+h6:hover {
+	cursor: pointer;
+}
+
+#logo img {
+	cursor: default;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.animated{-webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-ms-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:1s;-moz-animation-duration:1s;-ms-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s;}.animated.hinge{-webkit-animation-duration:1s;-moz-animation-duration:1s;-ms-animation-duration:1s;-o-animation-duration:1s;animation-duration:1s;}@-webkit-keyframes slideInDown {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(-2000px);
+	}	100% {
+		-webkit-transform: translateY(0);
+	}
+}
+
+@-moz-keyframes slideInDown {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(-2000px);
+	}
+
+	100% {
+		-moz-transform: translateY(0);
+	}
+}
+
+@-o-keyframes slideInDown {
+	0% {
+		opacity: 0;
+		-o-transform: translateY(-2000px);
+	}
+
+	100% {
+		-o-transform: translateY(0);
+	}
+}
+
+@keyframes slideInDown {
+	0% {
+		opacity: 0;
+		transform: translateY(-2000px);
+	}
+
+	100% {
+		transform: translateY(0);
+	}
+}
+
+.slideInDown {
+	-webkit-animation-name: slideInDown;
+	-moz-animation-name: slideInDown;
+	-o-animation-name: slideInDown;
+	animation-name: slideInDown;
+}
+
+
+
+
+
+
+
+
+
+
+/*WEB ENABLED FUTURA*/
+@font-face {
+    font-family: 'futura_ltbold';
+    src: url('../fonts/futura_bold-webfont.eot');
+    src: url('../fonts/futura_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futura_bold-webfont.woff') format('woff'),
+         url('../fonts/futura_bold-webfont.ttf') format('truetype'),
+         url('../fonts/futura_bold-webfont.svg#futura_ltbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'futura_ltbook';
+    src: url('../fonts/futura_book-webfont.eot');
+    src: url('../fonts/futura_book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/futura_book-webfont.woff') format('woff'),
+         url('../fonts/futura_book-webfont.ttf') format('truetype'),
+         url('../fonts/futura_book-webfont.svg#futura_ltbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
